@@ -1,2 +1,4 @@
-etl_Workshops_env
 .env 
+venv
+Src/Notebooks/test.ipynb
+Sql_connection/__pycache__
