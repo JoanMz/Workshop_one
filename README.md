@@ -33,3 +33,30 @@
 - `EDA` : in this notebook we can get the visualizations and see the process of cleaning or analisys and the state of our data
 - `load_new_data` : in this part we can add new data without delete the database or the registers
 
+  <h4 alingn="center"> How to Run </h4>
+
+
+<ol>
+  <li>Create a virtual env <pre>python -m venv venv</pre></li>
+  <li>Use the virtual env <pre>./venv/Scripts/activate</pre></li>
+  <li>Install the libraries <pre>pip install -r requirements.txt</pre></li>
+  <li>Create and config yours credentials at the .env file</li>
+
+  ![Captura de pantalla 2024-03-06 163650](https://github.com/JoanMz/Workshop_one/assets/103477035/6f8576ba-864c-4262-b768-6e1581d70fda)
+
+  <li>create the table workshop_one at postgres engine (pgadmin psql)</li>
+
+  ![Captura de pantalla 2024-03-06 173456](https://github.com/JoanMz/Workshop_one/assets/103477035/521a4ccc-8ff4-473b-9c1d-158dc119b2d8)
+  ![Captura de pantalla 2024-03-06 173335](https://github.com/JoanMz/Workshop_one/assets/103477035/37f0e512-8bf1-47fa-b487-de50257c3969)
+  <li>Run the postgres_connect script</li>
+  <li>Run the Pre_load notebook</li>
+  <li>Run the EDA Notebook</li>
+
+</ol>
+
+
+
+
+
+
+
