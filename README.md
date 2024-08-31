@@ -21,7 +21,9 @@
 - Technical_Interview_Score
 
 <p>We are looking for response the basics questions and get the pertinent viz and get some conclusions</p>
-ENVIRONMENT VARIABLES
+
+
+<p>ENVIRONMENT VARIABLES</p>
 - DB_HOST      <- This is the host of Postgres DB  example (127.0.0.1)
 - DB_USER      <- This is the user who access in the connection 
 - DB_PASSWORD  <- The password of the Postgres DB
@@ -30,7 +32,8 @@ ENVIRONMENT VARIABLES
 - DB_TABLE1    <- The name of the raw data table
 - DB_TABLE2    <- The name of the clean data table
 
-FIRST INSTALL THE TOOLS
+
+<p>FIRST INSTALL THE TOOLS</p>
 •	PYTHON
 •	POSTGRESQL
 •	JUPYTER NOTEBOOKS
