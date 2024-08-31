@@ -1,4 +1,6 @@
 .env 
-venv
 Src/Notebooks/test.ipynb
 Sql_connection/__pycache__
+workshop_venv
+.vscode
+*__pycache__
