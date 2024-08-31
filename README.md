@@ -25,13 +25,13 @@
 
 <p>ENVIRONMENT VARIABLES</p>
 <ul>
-<li> DB_HOST      <- This is the host of Postgres DB  example (127.0.0.1)</li>
-- DB_USER      <- This is the user who access in the connection 
-- DB_PASSWORD  <- The password of the Postgres DB
-- DB_PORT      <- The port of Postgres DB example (5432 default port)
-- DB_DATABASE  <- The name of the Database o Schema
-- DB_TABLE1    <- The name of the raw data table
-- DB_TABLE2    <- The name of the clean data table
+<li>DB_HOST      <- This is the host of Postgres DB  example (127.0.0.1)</li>
+<li>DB_USER      <- This is the user who access in the connection </li>
+<li>DB_PASSWORD  <- The password of the Postgres DB</li>
+<li>DB_PORT      <- The port of Postgres DB example (5432 default port)</li>
+<li>DB_DATABASE  <- The name of the Database o Schema</li>
+<li>DB_TABLE1    <- The name of the raw data table</li>
+<li>DB_TABLE2    <- The name of the clean data table</li>
 </ul>
 
 <p>FIRST INSTALL THE TOOLS</p>
