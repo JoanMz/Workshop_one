@@ -3,9 +3,7 @@ sys.path.append(r"../../Sql_connection")
 import postgres_connect #that library is for connect with my postgres database using the engine(connector) of sql_alchemy 
 from decouple import config
 from matplotlib import gridspec
-import numpy as np #for math
 import pandas as pd #for data handle 
-import matplotlib.pyplot as plt #for viz
 import re
 
 def determine_hire_state(row):
